@@ -1,34 +1,3 @@
-.container {
-    height: 250px;
-    background-color: red;
-    color: azure;
-    font-size: 50px;
-    margin: 20px;
-}
-
-.container-fluid {
-    height: 250px;
-    background-color: red;
-    color: azure;
-    font-size: 50px;
-    margin: 20px;
-}
-
-.row {
-    background-color: rgb(2, 156, 245);
-    border: 3px solid cyan;
-    padding: 5px;
-    margin: 10px;
-}
-
-.col {
-    background-color: rgb(2, 156, 245);
-    border: 2px solid cyan;
-    font-size: 50px;
-    color: white;
-}
-
-
 .principal {
     font-size: 40px;
     color: black;
@@ -52,9 +21,11 @@ img {
     border: 4px solid #005baa;
     padding: 0px; 
     gap: 0px;
-    width: 285px;
-    height: 80px;
+    width: 18.6vw;
+    height: 31vh;
     color: white;
+    max-width: 280px;
+    max-height: 80px;
 }
 
 
@@ -63,7 +34,7 @@ img {
     border: 4px solid #005baa;
     padding: 0px; 
     gap: 0px;
-    width: 1053px;
-    height: 198px;
+    width: 69vw;
+    height: 13vw;
     color: white;
 }
